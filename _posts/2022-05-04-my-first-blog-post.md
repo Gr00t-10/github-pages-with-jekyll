@@ -1,3 +1,2 @@
 Title: First Blog
-Author: Unknown
-This blog is for testing purpose.
+Date: 2022-05-04
